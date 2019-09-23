@@ -1,8 +1,7 @@
 Description:
-1. AdventureWork - SSIS package which collects all Order and Product Information data from the AdventureWorks2017 database and populates summary data within 
-the dbo.OrderProductTotal table in the AdventureWorksReporting2017 database.
+AdventureWork - SSIS package which collects all Order and Product Information data from the AdventureWorks2017 database and populates summary data within the dbo.OrderProductTotal table in the AdventureWorksReporting2017 database.
 
-2. Weather - SSIS package which copies weather data from the AdventureWorks2017 database (dbo.WeatherData table) into the dbo.WeatherData table in the AdventureWorksReporting2017 database.
+Weather - SSIS package which copies weather data from the AdventureWorks2017 database (dbo.WeatherData table) into the dbo.WeatherData table in the AdventureWorksReporting2017 database.
              There are Sunrise into Date Time values in the AdventureWorksReporting2017.dbo.WeatherData table (sunrise_dd and sunset_dd columns).
 
 
